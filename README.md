@@ -10,7 +10,12 @@ Source dataset: https://www.kaggle.com/datasets/balaka18/email-spam-classificati
 
 # Results
 
+[discuss reasonning for choice of ML and input options]
+[discuss iterative improvements made to model and results of each iteration]
+[state model performance]
 
 # Summary
+
+
 
 
