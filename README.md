@@ -6,7 +6,11 @@ The purpose of this analysis is to create a machine learning model which can det
 
 Using a sample of over 5,000 emails, we analyzed the data to determine how frequently each word appeared in the sample of emails. For words which appeared less than 50 times in the total sample, we removed these from the analysis as not highly representative or relevant. 
 
+Source dataset: https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
+
 # Results
 
 
 # Summary
+
+
