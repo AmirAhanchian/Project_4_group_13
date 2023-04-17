@@ -64,7 +64,7 @@ Logistic Regression:
 
 # Summary
 
-In the end, the optimized TensorFlow Keras model and the Logistic Regression model provided the most optimal results. However, when calculating the loss on the TensorFlow Keras model, the loss was significantly higher than the pre-optimization version. In addition, this model took significantly more time (and resources) to run than the logistic regression model. Therefore, we would select the logistic regression model as the most precise model. 
+In the end, the optimized TensorFlow Keras model and the Logistic Regression model provided the most optimal results. However, when calculating the loss on the TensorFlow Keras model, the loss was significantly higher than the pre-optimization version. The loss measures the difference between the model's predictions and the true output, and should be minimized. In addition, this model took significantly more time (and resources) to run than the logistic regression model. Therefore, we would select the logistic regression model as the most precise model. 
 
 Presentation link: https://docs.google.com/presentation/d/1Ts_Mu0gXb1KT8fXRL4XLajtWNGITV1_NODrj53k0ews/edit?usp=sharing
 
