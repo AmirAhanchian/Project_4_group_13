@@ -17,12 +17,14 @@ TensorFlow & Keras:
 * 'precision': 0.8589954972267151
 * 'recall': 0.9429894089698792
 * 'f1_score': 0.8901594877243042
+* loss: 0.8825 
 
 TensorFlow & Keras Optimized with additional hidden layers and epochs: 
 * 'accuracy': 0.9700483083724976
 * 'precision': 0.9141188859939575
 * 'recall': 0.9727393388748169
 * 'f1_score': 0.9385428428649902
+* loss: 6.1836 
 
 KNN: 
 * 'accuracy': 0.8521739130434782
@@ -62,7 +64,7 @@ Logistic Regression:
 
 # Summary
 
-In the end, 
+In the end, the optimized TensorFlow Keras model and the Logistic Regression model provided the most optimal results. However, when calculating the loss on the TensorFlow Keras model, the loss was significantly higher than the pre-optimization version. In addition, this model took significantly more time (and resources) to run than the logistic regression model. Therefore, we would select the logistic regression model as the most precise model. 
 
 Presentation link: https://docs.google.com/presentation/d/1Ts_Mu0gXb1KT8fXRL4XLajtWNGITV1_NODrj53k0ews/edit?usp=sharing
 
