@@ -17,14 +17,14 @@ TensorFlow & Keras:
 * 'precision': 0.8589954972267151
 * 'recall': 0.9429894089698792
 * 'f1_score': 0.8901594877243042
-* loss: 0.8825 
+* 'loss': 0.8825 
 
 TensorFlow & Keras Optimized with additional hidden layers and epochs: 
 * 'accuracy': 0.9700483083724976
 * 'precision': 0.9141188859939575
 * 'recall': 0.9727393388748169
 * 'f1_score': 0.9385428428649902
-* loss: 6.1836 
+* 'loss': 6.1836 
 
 KNN: 
 * 'accuracy': 0.8521739130434782
